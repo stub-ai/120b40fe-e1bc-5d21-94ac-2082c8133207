@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I want a button and a text starting at 0. When the button is clicked, it should increment the number by 1.","md5":"763a14cb75f8c78b86d92ea83d787c25"}]}
